@@ -143,6 +143,7 @@
 	"have.you.called.add_executable": "CMake projenizde add_executable() çağırdınız mı?",
 	"have.you.configured": "Başarılı bir CMake yapılandırması yürüttünüz mü?",
 	"no.program.will.be.executed": "Yürütülecek program yok",
+	"unable.to.get.build.directory": "Unable to get the build directory.",
 	"project.configuration.failed": "Proje yapılandırması başarısız oldu.",
 	"launch.with.overrides": "NOT: Bir hedefi başlatıyorsunuz ve VS Code ayarlarınızdan uygulanan bazı ortam geçersiz kılmaları var.",
 	"set.up.and.build.project.before.debugging": "Hata ayıklamadan önce CMake projenizi ayarlayın ve derleyin.",

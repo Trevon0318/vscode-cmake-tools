@@ -143,6 +143,7 @@
 	"have.you.called.add_executable": "CMake プロジェクトで add_executable() を呼び出しましたか?",
 	"have.you.configured": "CMake 構成を正常に実行しましたか?",
 	"no.program.will.be.executed": "プログラムは実行されません",
+	"unable.to.get.build.directory": "Unable to get the build directory.",
 	"project.configuration.failed": "プロジェクトの構成に失敗しました。",
 	"launch.with.overrides": "注: ターゲットを起動していて、VS Code設定からいくつかの環境のオーバーライドが適用されています。",
 	"set.up.and.build.project.before.debugging": "デバッグする前に、CMake プロジェクトを設定してビルドしてください。",

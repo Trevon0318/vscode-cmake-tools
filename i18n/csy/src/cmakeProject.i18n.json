@@ -143,6 +143,7 @@
 	"have.you.called.add_executable": "Volali jste v projektu CMake metodu add_executable()?",
 	"have.you.configured": "Provedli jste úspěšně příkaz configure nástrojů CMake?",
 	"no.program.will.be.executed": "Nespustí se žádný program.",
+	"unable.to.get.build.directory": "Unable to get the build directory.",
 	"project.configuration.failed": "Konfigurace projektu se nezdařila.",
 	"launch.with.overrides": "POZNÁMKA: Spouštíte cíl a používají některá přepisující nastavení prostředí z vašeho nastavení VS Code.",
 	"set.up.and.build.project.before.debugging": "Před zahájením ladění nastavte a sestavte projekt CMake.",

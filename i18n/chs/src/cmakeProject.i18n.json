@@ -143,6 +143,7 @@
 	"have.you.called.add_executable": "是否已在 CMake 项目中调用了 add_executable()?",
 	"have.you.configured": "是否执行了成功的 CMake 配置?",
 	"no.program.will.be.executed": "不会执行任何程序",
+	"unable.to.get.build.directory": "Unable to get the build directory.",
 	"project.configuration.failed": "项目配置失败。",
 	"launch.with.overrides": "注意: 你正在启动目标，并且正在从 VS Code 设置中应用一些环境替代。",
 	"set.up.and.build.project.before.debugging": "请先设置和生成 CMake 项目，然后再进行调试。",

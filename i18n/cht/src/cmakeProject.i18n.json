@@ -143,6 +143,7 @@
 	"have.you.called.add_executable": "您有在 CMake 專案中呼叫 add_executable() 嗎?",
 	"have.you.configured": "您執行的 CMake 設定成功了嗎?",
 	"no.program.will.be.executed": "將不會執行任何程式",
+	"unable.to.get.build.directory": "Unable to get the build directory.",
 	"project.configuration.failed": "設定專案失敗。",
 	"launch.with.overrides": "注意: 您正在啟動目標，且您的 VS Code 設定中正在套用某些環境覆寫。",
 	"set.up.and.build.project.before.debugging": "先設定並建置 CMake 專案再偵錯。",

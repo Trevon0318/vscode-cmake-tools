@@ -143,6 +143,7 @@
 	"have.you.called.add_executable": "Czy wywołano metodę add_executable() w projekcie narzędzia CMake?",
 	"have.you.configured": "Czy wykonano pomyślnie polecenie configure narzędzia CMake?",
 	"no.program.will.be.executed": "Żaden program nie zostanie uruchomiony",
+	"unable.to.get.build.directory": "Unable to get the build directory.",
 	"project.configuration.failed": "Konfigurowanie projektu nie powiodło się.",
 	"launch.with.overrides": "UWAGA: uruchamiasz element docelowy i z ustawień programu VS Code są stosowane pewne zastąpienia środowiska.",
 	"set.up.and.build.project.before.debugging": "Skonfiguruj i skompiluj projekt narzędzia CMake przed debugowaniem.",

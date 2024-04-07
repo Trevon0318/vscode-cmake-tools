@@ -143,6 +143,7 @@
 	"have.you.called.add_executable": "Вы вызвали add_executable () в проекте CMake?",
 	"have.you.configured": "Вы успешно выполнили настройку CMake?",
 	"no.program.will.be.executed": "Никакая программа не будет выполнена.",
+	"unable.to.get.build.directory": "Unable to get the build directory.",
 	"project.configuration.failed": "Не удалось настроить проект.",
 	"launch.with.overrides": "ПРИМЕЧАНИЕ. Вы запускаете цель, и в настройках VS Code применяются некоторые переопределения среды.",
 	"set.up.and.build.project.before.debugging": "Настройте и создайте проект CMake перед отладкой.",

@@ -143,6 +143,7 @@
 	"have.you.called.add_executable": "Você chamou add_executable() no seu projeto do CMake?",
 	"have.you.configured": "Você executou uma configuração bem-sucedida do CMake?",
 	"no.program.will.be.executed": "Nenhum programa será executado",
+	"unable.to.get.build.directory": "Unable to get the build directory.",
 	"project.configuration.failed": "Falha na configuração do projeto.",
 	"launch.with.overrides": "OBSERVAÇÃO: você está iniciando um destino e há algumas substituições de ambiente sendo aplicadas nas configurações do VS Code.",
 	"set.up.and.build.project.before.debugging": "Configure e compile o seu projeto do CMake antes da depuração.",

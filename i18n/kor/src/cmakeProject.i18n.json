@@ -143,6 +143,7 @@
 	"have.you.called.add_executable": "CMake 프로젝트에서 add_executable()을 호출하셨습니까?",
 	"have.you.configured": "CMake 구성을 성공적으로 실행하셨습니까?",
 	"no.program.will.be.executed": "프로그램이 실행되지 않습니다.",
+	"unable.to.get.build.directory": "Unable to get the build directory.",
 	"project.configuration.failed": "프로젝트를 구성하지 못했습니다.",
 	"launch.with.overrides": "참고: 대상을 시작하고 있으며 VS Code 설정에서 일부 환경 재정의가 적용되고 있습니다.",
 	"set.up.and.build.project.before.debugging": "디버그하기 전에 CMake 프로젝트를 설정하고 빌드합니다.",
